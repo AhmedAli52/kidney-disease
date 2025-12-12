@@ -1,0 +1,7 @@
+File,Prediction,Confidence
+no_stone_frame_003.csv,nostone,100.0
+no_stone_frame_005.csv,nostone,100.0
+no_stone_frame_007.csv,nostone,90.5
+no_stone_frame_006.csv,nostone,99.75
+no_stone_frame_009.csv,nostone,100.0
+no_stone_frame_010.csv,nostone,100.0
